@@ -1,0 +1,4 @@
+# Copie para config/database.properties e preencha. NÃO versione o arquivo real.
+db.url=jdbc:mysql://localhost:3306/cereja_no_bolo
+db.user=root
+db.password=TROQUE_AQUI

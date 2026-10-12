@@ -1,0 +1,2 @@
+Este projeto contém apenas testes (pasta test/). A pasta src/ existe porque
+projetos Java do NetBeans exigem um diretório de código-fonte.
